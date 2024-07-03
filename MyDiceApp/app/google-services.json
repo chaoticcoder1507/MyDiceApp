@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051417991823",
+    "project_id": "mydiceapp-f8b86",
+    "storage_bucket": "mydiceapp-f8b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051417991823:android:ae7754fff6ba13bacb2efa",
+        "android_client_info": {
+          "package_name": "morteza.packag.com.mydiceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNHgLRNp36jfgZuZhpXvS0__hlLhGE_hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
